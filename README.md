@@ -2,6 +2,7 @@
 <h3 align="center">I'm a backend developer using Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasos20&label=Profile%20views&color=0e75b6&style=flat" alt="anasos20" /> </p>
+<p align="right"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="anasos20" style="width: 40%; height: 40%;" /> </p>
 
 - 🔭 I’m currently working on [E-Store for arabian Abaya](https://hindami.site/)
 
